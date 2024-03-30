@@ -1,4 +1,5 @@
 # Multivariate and Network Analysis of Dry Bean Dataset
+![image](https://github.com/kavya2693/multivariate_network_analysis/assets/127579722/d870951b-5282-474a-8779-dea5d4a3d2a5)
 
 ## Overview
 
@@ -11,6 +12,23 @@ In the realm of agribusiness, the ability to predict and ensure bean quality bef
 ## Why Dry Bean Data Analysis?
 
 Dry beans are a staple food source globally, known for their nutritional value. The quality of beans directly impacts their market value, consumer acceptance, and nutritional content. Therefore, understanding the intricate relationships between various bean attributes is crucial for stakeholders to enhance production quality, align with market demands, and ensure food security.
+The dataset offers a unique vantage point into the agricultural domain, providing images of 13,611 grains across 7 different dry bean types. These images, captured with precision, have been analyzed to extract a total of 16 features per grain, encompassing 12 dimensional attributes and 4 shape descriptors.
+
+## Dataset Characteristics
+
+- **Nature of Data:** Multivariate, with a focus on both dimensional and shape attributes to provide a holistic view of bean characteristics.
+- **Subject Area:** Biology, specifically botany and agricultural sciences, emphasizing the biological and physical attributes of dry beans.
+- **Associated Tasks:** Primarily classification, aiming to distinguish between seven bean varieties based on their physical attributes.
+- **Feature Types:** Includes both integer and real-number data types, reflecting the quantitative nature of the extracted features.
+- **Instance Count:** The dataset comprises 13,611 instances, each representing a unique grain image analyzed.
+- **Feature Count:** A total of 16 features have been extracted for each instance, offering a detailed perspective on the beans' physical attributes.
+
+![image](https://github.com/kavya2693/multivariate_network_analysis/assets/127579722/99c47a43-c525-411e-a05e-649db464ffa4)
+
+## Additional Dataset Information
+
+This dataset was curated with an eye toward market dynamics, focusing on bean forms, shapes, types, and structures that are significant in commercial contexts. The underlying computer vision system was meticulously developed to differentiate among seven registered bean varieties, facilitating precise seed classification in line with market standards.
+
 
 ## Project Significance
 
