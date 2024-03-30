@@ -48,7 +48,7 @@ Through network analysis, we illustrate the interdependencies among these variab
 - **`dplyr`:** For data manipulation and cleaning, providing a straightforward syntax for complex data operations.
 - **`ggcorrplot`:** Utilized for visually representing correlation matrices, facilitating an intuitive understanding of the relationships among variables.
 - **`igraph`:** Employed for creating network visualizations, illustrating the intricate connections between bean attributes.
-Full code can be found in drybean.pynb
+Full code can be found in drybean.pynb and full report in drybean_report.md
 
 ## Conclusion
 
