@@ -48,8 +48,8 @@ Through network analysis, we illustrate the interdependencies among these variab
 - **`dplyr`:** For data manipulation and cleaning, providing a straightforward syntax for complex data operations.
 - **`ggcorrplot`:** Utilized for visually representing correlation matrices, facilitating an intuitive understanding of the relationships among variables.
 - **`igraph`:** Employed for creating network visualizations, illustrating the intricate connections between bean attributes.
+Full code can be found in drybean.pynb
 
 ## Conclusion
 
-The multivariate and network analysis conducted on the Dry Bean dataset goes beyond academic exercise, offering tangible, actionable insights for the agricultural industry. By harnessing the power of data analysis, stakeholders can enhance bean quality, optimize production processes, and make strategic decisions that align with market demands and sustainability goals.
-
+In conclusion, the analysis of the Dry Bean dataset provided a detailed examination of the intricate relationships between its variables, utilizing advanced multivariate and network analysis techniques. Initially, 344 significant correlations were identified, but after implementing statistical corrections to address the potential for false discoveries, this number was refined to 270. This reduction highlights the importance of statistical rigor in ensuring the reliability of the findings. The analysis not only sheds light on the complex interactions within the dataset but also establishes a foundation for future research. By accurately identifying and understanding these relationships, researchers can build upon this work with confidence, knowing that the insights gained are based on substantiated connections, thus enhancing the quality and impact of subsequent studies in the field.
